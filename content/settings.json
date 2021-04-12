@@ -7,17 +7,17 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logocomcase.png",
+  "logo": "/img/uploads/logo-comcase-1.png",
   "name": "comcase",
   "short_name": "comcase",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/logo-comcase-1.png",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/logocomcase.png",
   "store_id": 1286,
   "description": "comcase",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/logocomcase.png"
 }
