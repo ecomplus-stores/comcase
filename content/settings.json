@@ -1,5 +1,5 @@
 {
-  "domain": "comcase.netlify.app",
+  "domain": "www.comcase.com.br",
   "currency_symbol": "R$",
   "primary_color": "#f58634",
   "theme": {
@@ -8,7 +8,7 @@
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo-comcase-1.png",
-  "name": "comcase",
+  "name": "ComCase",
   "short_name": "comcase",
   "lang": "pt_br",
   "currency": "BRL",
@@ -18,6 +18,6 @@
   "secondary_color": "#5c5c5c",
   "icon": "/img/uploads/logocomcase.png",
   "store_id": 1286,
-  "description": "comcase",
+  "description": "A melhor loja de Acessorios personalizados.",
   "large_icon": "/img/uploads/logocomcase.png"
 }
