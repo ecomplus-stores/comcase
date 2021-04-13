@@ -4,17 +4,17 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 0,
       "slides": [
         {
           "img": "/img/uploads/rect89.webp",
           "link": "/headset",
           "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
+          "start": "2021-04-13T19:57:49.585Z",
           "end": "2020-12-31T03:00:00.000Z"
         },
         {
-          "img": "/img/uploads/banner2.webp",
+          "img": "/img/uploads/banner1.png",
           "alt": "Banner sample two",
           "start": "",
           "end": ""
@@ -30,12 +30,14 @@
       "shuffle": true,
       "collection_id": null,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "sort": "views",
+      "headless": false
     },
     {
       "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "title": "ComCase, essa é a sua marca.",
+      "description": "Não existe limite para sua imaginação."
     }
   ]
 }
