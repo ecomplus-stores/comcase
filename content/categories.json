@@ -2,7 +2,7 @@
   "sections": [
     {
       "type": "breadcrumbs",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "page-title"
@@ -15,10 +15,6 @@
       "type": "category-retail",
       "enabled": true,
       "sort": "sales"
-    },
-    {
-      "type": "document-description",
-      "enabled": false
     }
   ]
 }
