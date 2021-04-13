@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#f58634",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "united",
     "custom": "niche-game"
   },
   "bg_color": "#ffffff",
@@ -18,6 +18,6 @@
   "secondary_color": "#0078a3",
   "icon": "/img/uploads/logocomcase.png",
   "store_id": 1286,
-  "description": "A melhor loja de Acessorios personalizados.",
+  "description": "A melhor loja de Acessórios personalizados para smartphone. ",
   "large_icon": "/img/uploads/logocomcase.png"
 }
