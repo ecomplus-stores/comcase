@@ -36,6 +36,14 @@
       "title": "Destaques"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 6,
+      "page": 1,
+      "headless": true,
+      "sort": "sales"
+    },
+    {
       "type": "page-title",
       "title": "ComCase, essa é a sua marca.",
       "description": "Não existe limite para sua imaginação."
