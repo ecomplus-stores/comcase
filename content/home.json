@@ -30,9 +30,10 @@
       "shuffle": true,
       "collection_id": null,
       "limit": 12,
-      "page": 1,
+      "page": 3,
       "sort": "views",
-      "headless": false
+      "headless": false,
+      "title": ""
     },
     {
       "type": "page-title",
