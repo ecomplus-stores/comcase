@@ -29,8 +29,8 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
-      "limit": 4,
-      "page": 4,
+      "limit": 5,
+      "page": 1,
       "sort": "lowest_price",
       "headless": false,
       "title": "Destaques"
@@ -38,7 +38,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 6,
+      "limit": 5,
       "page": 1,
       "headless": true,
       "sort": "sales"
