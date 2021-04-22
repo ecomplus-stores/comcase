@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#f58634",
   "theme": {
-    "bootswatch": "superhero",
-    "custom": "clean-dark"
+    "bootswatch": "cosmo",
+    "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo-comcase-1.png",
