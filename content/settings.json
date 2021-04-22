@@ -4,7 +4,7 @@
   "primary_color": "#f58634",
   "theme": {
     "bootswatch": "superhero",
-    "custom": "_"
+    "custom": "clean-dark"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo-comcase-1.png",
