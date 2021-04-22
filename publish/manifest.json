@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.3664e41a4dead0762a471204577bf749.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.cc0fcdee17706d2fb23b0524bd47f4e1.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.b4fe2849f59a9114ecb164cf04130e4c.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.363add75fbafad9ac08882deaf7c8af4.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.f8a22dfd043a0795f6ab69ca28cee445.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "ComCase",
+  "short_name": "comcase",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A melhor loja de Acessórios personalizados para smartphone. ",
+  "background_color": "#ffffff",
+  "theme_color": "#f58634"
+}
