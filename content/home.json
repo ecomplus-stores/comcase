@@ -41,7 +41,7 @@
       "limit": 6,
       "page": 1,
       "headless": true,
-      "sort": null
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
@@ -49,7 +49,7 @@
       "limit": 7,
       "page": 1,
       "headless": true,
-      "sort": null
+      "sort": "views"
     },
     {
       "type": "page-title",
