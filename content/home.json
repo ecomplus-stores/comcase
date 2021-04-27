@@ -37,7 +37,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 6,
       "page": 1,
       "headless": true,
