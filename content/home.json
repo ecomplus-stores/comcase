@@ -45,8 +45,8 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 7,
+      "shuffle": true,
+      "limit": 6,
       "page": 1,
       "headless": true,
       "sort": "views"
