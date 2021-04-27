@@ -41,7 +41,7 @@
       "limit": 6,
       "page": 1,
       "headless": true,
-      "sort": "sales"
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
